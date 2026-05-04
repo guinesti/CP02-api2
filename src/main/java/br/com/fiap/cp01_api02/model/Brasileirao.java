@@ -8,7 +8,7 @@ import lombok.Data;
 
 @Data
 @Entity
-@Table(name = "Brasileiroes")
+@Table(name = "brasileiroes")
 public class Brasileirao {
     @Id
     private Long id;

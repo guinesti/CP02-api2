@@ -8,7 +8,7 @@ import lombok.Data;
 
 @Data
 @Entity
-@Table(name = "Olimpiadas")
+@Table(name = "olimpiadas")
 public class Olimpiadas {
     @Id
     private Long id;
